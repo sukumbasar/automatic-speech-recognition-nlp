@@ -1,0 +1,101 @@
+file_name,text,speaker_id,is_common,sentence_index,processed_file_name,sample_rate,whisper_pred
+Speaker0_00.m4a,Bugün hava oldukça sakin.,0,1,0,Speaker0_00.wav,16000, Bugün hava oldukça sakin.
+Speaker0_01.m4a,Toplantı saatini üç buçuğa erteledim.,0,1,1,Speaker0_01.wav,16000, Toplantı saatini 3 buçuğa erteledim.
+Speaker0_02.m4a,Yoğun trafik nedeniyle otobüs yarım saatten fazla gecikti.,0,1,2,Speaker0_02.wav,16000, yoğun trafik nedeni ile otobüs yarım saatten fazla gecikti.
+Speaker0_03.m4a,Bu dosyayı ne zaman teslim etmemiz gerekiyor?,0,1,3,Speaker0_03.wav,16000, Bu dosyayı ne zaman teslim etmemiz gerekiyor?
+Speaker0_04.m4a,"E-posta adresimi yanlış yazmış olabilirim, tekrar kontrol eder misin?",0,1,4,Speaker0_04.wav,16000, e-post adresimi yanlış yazmış olabilirim. Tekrar kontrol eder misin?
+Speaker0_05.m4a,Projede hangi yöntemi kullanacağımıza henüz karar vermedik.,0,0,5,Speaker0_05.wav,16000, Projede hangi yöntemi kullanacağımıza henüz karar vermedik.
+Speaker0_06.m4a,Yeni aldığım kulaklıkla müzik dinlerken ses kalitesini çok beğendim.,0,0,6,Speaker0_06.wav,16000, Yeni aldığım kulaklıkla müzik dinlerken ses kalitesini çok beğendim.
+Speaker0_07.m4a,Bugün yoğunluktan dolayı kahvemi bile bitiremedim.,0,0,7,Speaker0_07.wav,16000, Bugün yolunluktan dolayı kahven bile bitiremedim.
+Speaker0_08.m4a,Akşam yaptığımız toplantı beklentimden daha verimli geçti.,0,0,8,Speaker0_08.wav,16000," Akşam yaptığımız toplantı, beklentimden daha verimli geçti."
+Speaker0_09.m4a,Kütüphaneye giderken yolun kapalı olduğunu görünce başka bir rota seçtim.,0,0,9,Speaker0_09.wav,16000, Kütüphaneye giderken yolun kapalı olduğunu görünce başka bir rota seçtim.
+Speaker0_10.m4a,"Yazılım mimarisi, ölçeklenebilir bir sistemin temelini oluşturur.",0,1,10,Speaker0_10.wav,16000, yazılım imar ise ölçeklenebilir bir sistemin temeline oluşturur.
+Speaker0_11.m4a,"Geliştirdiğimiz algoritma, büyük veri kümelerini etkili bir şekilde analiz edebiliyor.",0,1,11,Speaker0_11.wav,16000, Geliştirdiğimiz algoritma büyük veri kümelerin etkili bir şekilde analiz edebiliyor.
+Speaker0_12.m4a,"Otomotiv sektöründeki elektrikli araç devrimi, geleceği şekillendiriyor.",0,1,12,Speaker0_12.wav,16000, Otomatif sektöründeki elektrikli araç devreme geleceği şekillendiriyor.
+Speaker0_13.m4a,"Güneş enerjisi panelleri, sürdürülebilir enerji kaynakları arasında popülerliğini artırıyor.",0,1,13,Speaker0_13.wav,16000, Güneş enerjisi panelere sürdürülebilir enerji kaynaklar arasında popülerliğini arttırıyor.
+Speaker0_14.m4a,Geçen hafta gerçekleşen küresel iklim değişikliği zirvesi büyük ilgi topladı.,0,1,14,Speaker0_14.wav,16000, Geçen hafta gerçekleşen küresel iklim değişikliği zirvesi büyük ilgi topladı.
+Speaker0_15.m4a,En kısa sürede Viyana’nın tarihi binalarını ve müzelerini ziyaret etmeliyiz.,0,1,15,Speaker0_15.wav,16000, En kısıl sürede viyananın tarihi binaları ve müzelerini ziyaret etmeliyiz.
+Speaker0_16.m4a,Akşam yemeği için taze sebzeler ve baharatlı tavuk sote hazırladım.,0,1,16,Speaker0_16.wav,16000, Akşam yemeği için taze sebzeler ve baharatlı tavuk sote hazırladım.
+Speaker0_17.m4a,"Karadeniz’in serin sularında yelken açmak, huzurlu bir kaçış sunuyor.",0,1,17,Speaker0_17.wav,16000, Karadeniz'in serin sularında yelken açmak huzurlu bir kaçış sunuyor.
+Speaker0_18.m4a,"Dünkü toplantıda, özel ve özgür düşüncelerimizi özellikle vurguladık.",0,1,18,Speaker0_18.wav,16000, Dünkü toplantıda özel ve özgür düşüncelerimize özellikle vurguladık.
+Speaker0_19.m4a,Tüm gün boyunca tek bir tümce yazamadım.,0,1,19,Speaker0_19.wav,16000, Tüm gün boyunca tek bir tümce yazamadım.
+Speaker1_00.m4a,Bugün hava oldukça sakin.,1,1,0,Speaker1_00.wav,16000, Bugün hava oldukça sakin.
+Speaker1_01.m4a,Toplantı saatini üç buçuğa erteledim.,1,1,1,Speaker1_01.wav,16000," Toplantı saatini 3,5'a erteledim."
+Speaker1_02.m4a,Yoğun trafik nedeniyle otobüs yarım saatten fazla gecikti.,1,1,2,Speaker1_02.wav,16000, Yoğun trafik nedeniyle otobüs yarım saatten fazla gecikti.
+Speaker1_03.m4a,Bu dosyayı ne zaman teslim etmemiz gerekiyor?,1,1,3,Speaker1_03.wav,16000, Bu dosyayı ne zaman teslim etmemiz gerekiyor?
+Speaker1_04.m4a,"E-posta adresimi yanlış yazmış olabilirim, tekrar kontrol eder misin?",1,1,4,Speaker1_04.wav,16000, Eee posta adesimi yanlış yazmış olabilirim. Tekrar kontrol eder misin?
+Speaker1_05.m4a,Bu hafta programım çok yoğun olduğu için dinlenmeye pek vakit bulamadım.,1,0,5,Speaker1_05.wav,16000, Bu hafta programım çok yoğun olduğu için dinlenmeye pek vakit bulamadım.
+Speaker1_06.m4a,Yeni aldığım kitabı okumaya başladım ve konusu beklediğimden daha sürükleyici.,1,0,6,Speaker1_06.wav,16000, Yeni aldığım kitap okumaya başladım ve konusu beklediğimden daha sürükleyici.
+Speaker1_07.m4a,Markete gitmeden önce ihtiyaç listesini tekrar kontrol ettim.,1,0,7,Speaker1_07.wav,16000, Markete gitmeden önce ihtiyaç listesini tekrar kontrol ettim.
+Speaker1_08.m4a,Yarınki sunuma hazırlanmak için biraz daha pratik yapmam gerekiyor.,1,0,8,Speaker1_08.wav,16000, Yarınki sunumu hazırlanmak için biraz daha pratik yapmam gerekiyor.
+Speaker1_09.m4a,Bugün yapmam gereken işler sandığımdan daha uzun sürdü.,1,0,9,Speaker1_09.wav,16000, Bugün yapmam gereken işler sandığımdan daha uzun sürdü.
+Speaker1_10.m4a,"Yazılım mimarisi, ölçeklenebilir bir sistemin temelini oluşturur.",1,1,10,Speaker1_10.wav,16000, yazılım mimarisi ölçeklenebilir bir sistemin temelini oluşturur.
+Speaker1_11.m4a,"Geliştirdiğimiz algoritma, büyük veri kümelerini etkili bir şekilde analiz edebiliyor.",1,1,11,Speaker1_11.wav,16000, geliştirdiğimiz algoritma büyük verikümelerini etkili bir şekilde analiz edebiliyor.
+Speaker1_12.m4a,"Otomotiv sektöründeki elektrikli araç devrimi, geleceği şekillendiriyor.",1,1,12,Speaker1_12.wav,16000, Otomotiv sektöründeki elektrikli araç devrimi geleceği şekillendiriyor.
+Speaker1_13.m4a,"Güneş enerjisi panelleri, sürdürülebilir enerji kaynakları arasında popülerliğini artırıyor.",1,1,13,Speaker1_13.wav,16000, Güneş enerjisi panelleri sürdürülebilir enerji kaynakları arasında popülerliğini artırıyor.
+Speaker1_14.m4a,Geçen hafta gerçekleşen küresel iklim değişikliği zirvesi büyük ilgi topladı.,1,1,14,Speaker1_14.wav,16000, Geçen hafta gerçekleşen kuresel iklim değişikliği zirvesi büyük ilgi topladı.
+Speaker1_15.m4a,En kısa sürede Viyana’nın tarihi binalarını ve müzelerini ziyaret etmeliyiz.,1,1,15,Speaker1_15.wav,16000, En kısa sürede Viyana'nın tarihi binalarını ve müzelerini ziyaret etmeliyiz.
+Speaker1_16.m4a,Akşam yemeği için taze sebzeler ve baharatlı tavuk sote hazırladım.,1,1,16,Speaker1_16.wav,16000, Akşam yemeği için taze sebzeler ve baharatlı tavuk sote hazırladım.
+Speaker1_17.m4a,"Karadeniz’in serin sularında yelken açmak, huzurlu bir kaçış sunuyor.",1,1,17,Speaker1_17.wav,16000, Karadeniz'in serin sularında yerken açmak huzurlu bir kaçış sunuyor.
+Speaker1_18.m4a,"Dünkü toplantıda, özel ve özgür düşüncelerimizi özellikle vurguladık.",1,1,18,Speaker1_18.wav,16000, Dünkü toplantıda özel ve özgür düşüncelerimizi özellikle vurguladık.
+Speaker1_19.m4a,Tüm gün boyunca tek bir tümce yazamadım.,1,1,19,Speaker1_19.wav,16000, Tüm gün boyunca tek bir tümce yazamadım.
+Speaker2_00.m4a,Bugün hava oldukça sakin.,2,1,0,Speaker2_00.wav,16000, Bugün hava oldukça sakin.
+Speaker2_01.m4a,Toplantı saatini üç buçuğa erteledim.,2,1,1,Speaker2_01.wav,16000," Toplantı saatini 3,5 koğa erteledim."
+Speaker2_02.m4a,Yoğun trafik nedeniyle otobüs yarım saatten fazla gecikti.,2,1,2,Speaker2_02.wav,16000, Yoğun trafik nedeni ile otobüs yarım saatten fazla gecikti.
+Speaker2_03.m4a,Bu dosyayı ne zaman teslim etmemiz gerekiyor?,2,1,3,Speaker2_03.wav,16000, Bu dosyayı ne zaman teslim etmemiz gerekiyor?
+Speaker2_04.m4a,"E-posta adresimi yanlış yazmış olabilirim, tekrar kontrol eder misin?",2,1,4,Speaker2_04.wav,16000, E-Postal cesemi yanlış yazmış olabilirim. Tekrar kontrol eder misin?
+Speaker2_05.m4a,Dışarı çıkmadan önce havanın yağmur ihtimaline bakmayı unuttum.,2,0,5,Speaker2_05.wav,16000, Dışarı çıkmadan önce havanın yağmur ihtimaline bakmayı unuttum.
+Speaker2_06.m4a,Bu sabah alarm çalmadığı için aceleyle hazırlanmak zorunda kaldım.,2,0,6,Speaker2_06.wav,16000, Bu sabah alarm çalmadığı için acele ile hazırlanmak zorunda kaldım.
+Speaker2_07.m4a,Yeni bir dil öğrenmek her zaman bana heyecan veriyor.,2,0,7,Speaker2_07.wav,16000, Yeni bir dil öğrenmek her zaman bana heyecan veriyor.
+Speaker2_08.m4a,Ders notlarını düzenlemek düşündüğümden daha uzun sürdü.,2,0,8,Speaker2_08.wav,16000, ders notlarını düzenlemek düşündüğümden daha uzun sürdü.
+Speaker2_09.m4a,"Bugün çok rüzgâr vardı, o yüzden dışarıda yürümek biraz zordu.",2,0,9,Speaker2_09.wav,16000," Bugün çok rüzgar vardı, o yüzden dışarıda yürümek biraz zordu."
+Speaker2_10.m4a,"Yazılım mimarisi, ölçeklenebilir bir sistemin temelini oluşturur.",2,1,10,Speaker2_10.wav,16000, yazılım mimarisi ölçeklenebilir bir sistemin temelini oluşturur.
+Speaker2_11.m4a,"Geliştirdiğimiz algoritma, büyük veri kümelerini etkili bir şekilde analiz edebiliyor.",2,1,11,Speaker2_11.wav,16000," geliştirdiğimiz algoritma, büyük veriği kümelerini etkili bir şekilde analiz edebiliyor."
+Speaker2_12.m4a,"Otomotiv sektöründeki elektrikli araç devrimi, geleceği şekillendiriyor.",2,1,12,Speaker2_12.wav,16000, otomatis sektöründeki elektrikli araç devrimi geleceği şekillendiriyor.
+Speaker2_13.m4a,"Güneş enerjisi panelleri, sürdürülebilir enerji kaynakları arasında popülerliğini artırıyor.",2,1,13,Speaker2_13.wav,16000, Güneş enerjisi panelleri sürdürülebilir enerji kaynaklar arasında popülerliğini arttırıyor.
+Speaker2_14.m4a,Geçen hafta gerçekleşen küresel iklim değişikliği zirvesi büyük ilgi topladı.,2,1,14,Speaker2_14.wav,16000, Geçen hafta gerçekleşen küresel iklim değişikliği zirvesi büyük ilgi topladı.
+Speaker2_15.m4a,En kısa sürede Viyana’nın tarihi binalarını ve müzelerini ziyaret etmeliyiz.,2,1,15,Speaker2_15.wav,16000, En kısa sürede Vienna'nın tarihi binalarını ve müzelerini ziyaret etmeliyiz.
+Speaker2_16.m4a,Akşam yemeği için taze sebzeler ve baharatlı tavuk sote hazırladım.,2,1,16,Speaker2_16.wav,16000, Akşam yemeği için taze sebzeler ve baharatlı tavuk sote hazırladım.
+Speaker2_17.m4a,"Karadeniz’in serin sularında yelken açmak, huzurlu bir kaçış sunuyor.",2,1,17,Speaker2_17.wav,16000, Karadeniz'in serin sularında yelken açmak huzurlu bir kaçış sunuyor.
+Speaker2_18.m4a,"Dünkü toplantıda, özel ve özgür düşüncelerimizi özellikle vurguladık.",2,1,18,Speaker2_18.wav,16000, Dünkü toplantıda özel ve özgür düşüncelerimizi özellikle vurguladık.
+Speaker2_19.m4a,Tüm gün boyunca tek bir tümce yazamadım.,2,1,19,Speaker2_19.wav,16000, Tüm gün boyunca tek bir tümce yazamadım.
+Speaker3_00.m4a,Bugün hava oldukça sakin.,3,1,0,Speaker3_00.wav,16000, Bugün hava oldukça sakin.
+Speaker3_01.m4a,Toplantı saatini üç buçuğa erteledim.,3,1,1,Speaker3_01.wav,16000," Toplantı saati 3,5 ertledim."
+Speaker3_02.m4a,Yoğun trafik nedeniyle otobüs yarım saatten fazla gecikti.,3,1,2,Speaker3_02.wav,16000, Yoğun trafik nedeni ile otobüs yarım zaten fazla gecikti.
+Speaker3_03.m4a,Bu dosyayı ne zaman teslim etmemiz gerekiyor?,3,1,3,Speaker3_03.wav,16000, Bu dosyayı ne zaman teslim etmemiz gerekiyor?
+Speaker3_04.m4a,"E-posta adresimi yanlış yazmış olabilirim, tekrar kontrol eder misin?",3,1,4,Speaker3_04.wav,16000, A post adresimi yanlış yazmış olabilirim. Tekrar kontrol eder misin?
+Speaker3_05.m4a,Sabah kahvemi içmeden güne başlayamıyorum.,3,0,5,Speaker3_05.wav,16000, Sabah kahvemi içmeden güne başlayamıyorum.
+Speaker3_06.m4a,Bu projeyi yetiştirmek biraz stresli olacak gibi.,3,0,6,Speaker3_06.wav,16000, Bu projeyi yetiştirmek biraz stres olacak gibi.
+Speaker3_07.m4a,Telefonumun bataryası son günlerde çok hızlı tükeniyor.,3,0,7,Speaker3_07.wav,16000, Telefonumun bataryası son günlerde çok hızlı tükeniyor.
+Speaker3_08.m4a,Bu hafta sonu ailemi ziyarete gitmeyi planlıyorum.,3,0,8,Speaker3_08.wav,16000, Bu hafta sonu ailemi ziyarete gitmeyi planlıyorum.
+Speaker3_09.m4a,Yeni yılda düzenli spor yapmaya kesin olarak karar verdim.,3,0,9,Speaker3_09.wav,16000, Yeni yılda düzenli spor yapmaya kesin olarak karar verdim.
+Speaker3_10.m4a,"Yazılım mimarisi, ölçeklenebilir bir sistemin temelini oluşturur.",3,1,10,Speaker3_10.wav,16000, yazılım mimarisi ölçeklenebilir bir sistemin temelini oluşturur.
+Speaker3_11.m4a,"Geliştirdiğimiz algoritma, büyük veri kümelerini etkili bir şekilde analiz edebiliyor.",3,1,11,Speaker3_11.wav,16000," geliştirdiğimiz algoritma, büyük veri kümelerini etkili bir şekilde analiz edebiliyor."
+Speaker3_12.m4a,"Otomotiv sektöründeki elektrikli araç devrimi, geleceği şekillendiriyor.",3,1,12,Speaker3_12.wav,16000, Otomatif sektüründeki elektrikli araç devrimi geleceği şekillendiriyor.
+Speaker3_13.m4a,"Güneş enerjisi panelleri, sürdürülebilir enerji kaynakları arasında popülerliğini artırıyor.",3,1,13,Speaker3_13.wav,16000, Güneş enerjisi paneleri sürdürülebilir enerji kaynakları arasında popülerliğini artırıyor.
+Speaker3_14.m4a,Geçen hafta gerçekleşen küresel iklim değişikliği zirvesi büyük ilgi topladı.,3,1,14,Speaker3_14.wav,16000, Geçen hafta gerçekleşen küresel iklim değişikliği zirvesi büyük illi topladı.
+Speaker3_15.m4a,En kısa sürede Viyana’nın tarihi binalarını ve müzelerini ziyaret etmeliyiz.,3,1,15,Speaker3_15.wav,16000, En kısı sürede Viyana'nın tarihi binalarını ve müzelerini ziyaret etmeliyiz.
+Speaker3_16.m4a,Akşam yemeği için taze sebzeler ve baharatlı tavuk sote hazırladım.,3,1,16,Speaker3_16.wav,16000, Akşam yemeği için taze sebzeler ve baharatlı tavuk suate hazırladım.
+Speaker3_17.m4a,"Karadeniz’in serin sularında yelken açmak, huzurlu bir kaçış sunuyor.",3,1,17,Speaker3_17.wav,16000, Karadeniz'in serin sularında yelken açmak huzurlu bir kaşış sunuyor.
+Speaker3_18.m4a,"Dünkü toplantıda, özel ve özgür düşüncelerimizi özellikle vurguladık.",3,1,18,Speaker3_18.wav,16000, Dünkü toplantıda özel ve özgür düşüncelerimizi özellikle vurguladık.
+Speaker3_19.m4a,Tüm gün boyunca tek bir tümce yazamadım.,3,1,19,Speaker3_19.wav,16000, Tüm gün boyunca tek bir tümce yazamadım.
+Speaker4_00.m4a,Bugün hava oldukça sakin.,4,1,0,Speaker4_00.wav,16000, Bugün hava oldukça sakin.
+Speaker4_01.m4a,Toplantı saatini üç buçuğa erteledim.,4,1,1,Speaker4_01.wav,16000, Toplantı saati 3 buçuğa erteledim.
+Speaker4_02.m4a,Yoğun trafik nedeniyle otobüs yarım saatten fazla gecikti.,4,1,2,Speaker4_02.wav,16000, yoğun trafik nedeni ile otobüs yarım saatten fazla gecikti.
+Speaker4_03.m4a,Bu dosyayı ne zaman teslim etmemiz gerekiyor?,4,1,3,Speaker4_03.wav,16000, Bu dosyayı ne zaman teslim etmemiz gerekiyor?
+Speaker4_04.m4a,"E-posta adresimi yanlış yazmış olabilirim, tekrar kontrol eder misin?",4,1,4,Speaker4_04.wav,16000, Posta adresimi yanlış yazmış olabilirim. Tekrar kontrol eder misin?
+Speaker4_05.m4a,Sabah erkenden kalktığım hâlde işlerimi yetiştiremedim.,4,0,5,Speaker4_05.wav,16000, Sabah erken kalktığım halde işlerimi yetiştiremedim.
+Speaker4_06.m4a,Bugün yeni bir tarif denemek istiyorum ama malzemeler eksik.,4,0,6,Speaker4_06.wav,16000, Bu gün yeni bir tarif denemek istiyorum ama malzemeler eksik.
+Speaker4_07.m4a,Telefonumun hafızası dolduğu için bazı dosyaları silmem gerekecek.,4,0,7,Speaker4_07.wav,16000, telefonumun hafızası dolduğu için bazı dosyaları silmem gerekecek.
+Speaker4_08.m4a,Toplantıya geç kalmamak için biraz hızlı yürümek zorunda kaldım.,4,0,8,Speaker4_08.wav,16000, Toplantıya geç kalmamak için biraz hızlı yürümek zorunda kaldım.
+Speaker4_09.m4a,Akşam için plan yaptık ama hâlâ saat konusunda karar veremedik.,4,0,9,Speaker4_09.wav,16000, Akşam için plan yaptık ama hala saat konusunda karar veremedik.
+Speaker4_10.m4a,"Yazılım mimarisi, ölçeklenebilir bir sistemin temelini oluşturur.",4,1,10,Speaker4_10.wav,16000, yazılım mimarisi ölçeklenebilir bir sistemin temelini oluşturur.
+Speaker4_11.m4a,"Geliştirdiğimiz algoritma, büyük veri kümelerini etkili bir şekilde analiz edebiliyor.",4,1,11,Speaker4_11.wav,16000, geliştirdiğimiz algoritma büyük verik ümelerini etkili bir şekilde analiz edebiliyor.
+Speaker4_12.m4a,"Otomotiv sektöründeki elektrikli araç devrimi, geleceği şekillendiriyor.",4,1,12,Speaker4_12.wav,16000, Otomotiv sektöründeki elektrikli araç devrimi geleceği şekillendiriyor.
+Speaker4_13.m4a,"Güneş enerjisi panelleri, sürdürülebilir enerji kaynakları arasında popülerliğini artırıyor.",4,1,13,Speaker4_13.wav,16000, Güneş enerjisi panelleri sütürülebilir enerji kaynaklar arasında popülerliğini arttırıyor.
+Speaker4_14.m4a,Geçen hafta gerçekleşen küresel iklim değişikliği zirvesi büyük ilgi topladı.,4,1,14,Speaker4_14.wav,16000, Geçen hafta gerçekleşen küresel iklim değişikliği zirvesi büyük ilgi topladı.
+Speaker4_15.m4a,En kısa sürede Viyana’nın tarihi binalarını ve müzelerini ziyaret etmeliyiz.,4,1,15,Speaker4_15.wav,16000, En kısa sürede viyananın tarihi binalarını ve müzelerini ziyaret etmeliyiz.
+Speaker4_16.m4a,Akşam yemeği için taze sebzeler ve baharatlı tavuk sote hazırladım.,4,1,16,Speaker4_16.wav,16000, Akşam yemeği için taze sebzeler ve baharatlı tavuk sote hazırladım.
+Speaker4_17.m4a,"Karadeniz’in serin sularında yelken açmak, huzurlu bir kaçış sunuyor.",4,1,17,Speaker4_17.wav,16000," Karadeniz'in serin sularında yelken açmak, huzurlu bir kaçış sunuyor."
+Speaker4_18.m4a,"Dünkü toplantıda, özel ve özgür düşüncelerimizi özellikle vurguladık.",4,1,18,Speaker4_18.wav,16000, Dünkü toplantıda özel ve özgür düşüncelerimizi özellikle vurguladık.
+Speaker4_19.m4a,Tüm gün boyunca tek bir tümce yazamadım.,4,1,19,Speaker4_19.wav,16000, Tüm gün boyunca tek bir tümce yazamadım.
